@@ -1,10 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/SwanHub/Udemy/Golang-ToddMcleod/13-testing/random"
+)
 
 func main() {
 	fmt.Printf("2 + 3 = %v\n", Sum(2, 3))
 	fmt.Printf("137 mod 8 is: %v\n", Modulo(137, 8))
+	fmt.Println(random.Sum2(3, 4, 5))
 }
 
 // Sum function adds any number of numbers

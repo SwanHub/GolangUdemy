@@ -1,9 +1,3 @@
 package main
 
-import (
-	"fmt"
-)
-
-func main() {
-	fmt.Println("yes")
-}
+// write your comments directly above your code. That's golang documentation in a nutshell.

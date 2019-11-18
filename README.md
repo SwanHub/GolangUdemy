@@ -1,7 +1,7 @@
 # Golang Udemy Course
 
 ## Reason for taking
-- Go is my favorite language.
+- Go is my favorite language
 - I felt comfortable generating servers in Go, but shaky on the foundations (particularly concurrency)
 - I prefer to start at the beginning, even if it means going back
 
