@@ -1,5 +1,5 @@
-// Package random is so random, it sums your integer values neatly
-package random
+// Package examples package it sums your integer values neatly
+package examples
 
 // Sum2 sums all integers received as arguments
 func Sum2(xi ...int) int {
