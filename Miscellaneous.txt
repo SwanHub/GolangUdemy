@@ -1,7 +1,24 @@
 Miscellaneous Tidbits
 
+GO HISTORY
+    - 2006 Intel, dual cores widely available
+    - Go was developed in 2007 to take advantage of the dual core processes
+    - Concurrency is at the heart of this language -- concurrency easy
+    - March 2012 Go v 1 released
+
 STATIC programming language 
     - When you declare a type, you are stuck with that type wherever it is declared. 
+
+MISC COMPUTER KNOWLEDGE
+    - Circuit, switch, transistor are all synonymous
+    - Bits == Binary Digits
+    - Machine Language == binary
+    - UTF-8 (first part of it is ascii), made by people who made Go 
+    - 1 Bit (binary digit) // 8 bits = byte // 1000 bytes = 1KB (1024, actually) // ... MB ... GB ... TB
+    - debugging :: Grace Hopper
+    - 2.6 billion circuits on a chip the size of a thumbnail... 
+    - Intel == integrated electronics  
+    - "word size" :: the number of bits it can read at once
 
 2 Operating systems
 - Unix/Linux/Mac 
@@ -16,12 +33,6 @@ STATIC programming language
 GOROOT 
     - points to the binary of your go language. 
 
-Integrated Development Environment
-    - VS Code 
-    - Goland
-
-Every program needs 'package main & func main()'
-
 Variadic Parameter: 
     - ...interface{} (any number of things of any type)
 
@@ -30,22 +41,3 @@ Types:
     - Primitive / Basic / Built-in :: number, bool, string 
     - Composite :: Array, Slice, Map, Struct (differentiates by having values of variable type)
     - Zero-Value: bool (false), string (empty), int (0), float (0.0) pointers, structs, arrays, etc (nil)
-
-HOW COMPUTERS WORK
-    - circuit, switch, transistor are all synonymous
-    - Bits == Binary Digits
-    - Machine Language == binary
-    - UTF-8 (first part of it is ascii), made by people who made Go 
-    - 1 Bit (binary digit) // 8 bits = byte // 1000 bytes = 1KB (1024, actually) // ... MB ... GB ... TB
-    - debugging :: Grace Hopper
-    - 2.6 billion in size of thumbnail... circuits on a chip. 
-    - Intel == integrated electronics  
-    - "word size" :: the number of bits it can read at once
-
-GO HISTORY
-    - 2006 Intel, dual cores widely available
-    - Go was developed in 2007 to take advantage of the dual core processes
-    - Concurrency is at the heart of this language -- concurrency easy
-    - March 2012 Go v 1 released
-
-
